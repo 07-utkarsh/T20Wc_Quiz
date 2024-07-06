@@ -1,0 +1,29 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+ 
+}
+*{
+  background-color: rgb(211, 255, 255);
+}
+h1{
+  font-size: 70px;
+}
+p{
+  color: rgb(56, 128, 221);
+  font-size: 40px;
+}
+textarea{
+  border: 2px solid rgba(30, 184, 255, 0.678);
+  border-radius: 5px;
+}
+
+
+.error {color: red;}
+button{
+  background-color: rgba(0, 0, 0, 0.705);
+  color: antiquewhite;
+  border-radius: 10px;
+}
